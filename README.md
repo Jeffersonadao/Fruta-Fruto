@@ -1,2 +1,2 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Projeto Fruta e Fruto
+Projeto feito no curso de arquitetura CSS da Oracle Next education pela Alura. 
