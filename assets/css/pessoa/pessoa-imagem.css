@@ -14,6 +14,11 @@
     background-image: url('../../img/pessoas/roberta.jpg');
 }
 
+.pessoa__imagem:hover {
+  width: 350px;  
+  transition: all 0.5s;
+}
+
 .pessoa__imagem--marcela {
     background-image: url('../../img/pessoas/marcela.jpg');
 }
